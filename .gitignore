@@ -5,6 +5,7 @@ cache
 # Starknet
 goerli.deployments.txt
 localhost.deployments.txt
+nile
 
 # Logs
 logs
